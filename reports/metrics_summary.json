@@ -1,0 +1,23 @@
+{
+  "roc_auc": 0.8463,
+  "average_precision": 0.6572,
+  "default_threshold_0.5": {
+    "precision": 0.4699,
+    "recall": 0.877,
+    "f1": 0.6119
+  },
+  "tuned_threshold": {
+    "threshold": 0.67,
+    "precision": 0.5468,
+    "recall": 0.7647,
+    "f1": 0.6377
+  },
+  "top_decile_lift": 2.86,
+  "top_2_deciles_capture_pct": 50.5,
+  "confusion_matrix": {
+    "true_negative": 665,
+    "false_positive": 370,
+    "false_negative": 46,
+    "true_positive": 328
+  }
+}
