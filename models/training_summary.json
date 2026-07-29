@@ -34,5 +34,5 @@
   "train_rows": 5634,
   "test_rows": 1409,
   "churn_rate": 0.2653698707936959,
-  "elapsed_seconds": 85.2
+  "elapsed_seconds": 88.7
 }

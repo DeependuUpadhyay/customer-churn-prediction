@@ -5,12 +5,12 @@ are about to cancel their subscription — from raw data to a deployed,
 interactive web app a retention team could actually use.
 
 **Live components:**
-- 🧠 A trained XGBoost model (ROC-AUC 0.85, selected against Logistic
+- A trained XGBoost model (ROC-AUC 0.85, selected against Logistic
   Regression and Random Forest via cross-validated search)
-- 📊 A full evaluation report: precision-recall curve, ROC curve, lift /
+- A full evaluation report: precision-recall curve, ROC curve, lift /
   cumulative gains chart, confusion matrix, feature importance
-- 🖥️ A Streamlit app for single-customer lookup and batch CSV scoring
-- 🔌 A Flask REST API for programmatic scoring (e.g. from a CRM webhook)
+- A Streamlit app for single-customer lookup and batch CSV scoring
+- A Flask REST API for programmatic scoring (e.g. from a CRM webhook)
 
 ---
 
