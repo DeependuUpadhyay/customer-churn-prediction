@@ -128,6 +128,44 @@ Full charts are generated in `reports/` — see `lift_chart.png` and
 `precision_recall_curve.png` in particular; those (not a bare accuracy
 number) are what to screenshot for a portfolio write-up.
 
+---
+
+# Dashboard Preview
+
+## Main Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## Single Customer Prediction
+
+![Prediction](assets/prediction.png)
+
+---
+
+## Batch Prediction
+
+![Batch Scoring](assets/batch-scoring.png)
+
+---
+
+## Confusion Matrix
+
+![Confusion Matrix](assets/confusion-matrix.png)
+
+---
+
+## ROC Curve
+
+![ROC Curve](assets/roc-curve.png)
+
+---
+
+## Classification Report
+
+![Model Report](assets/model-report.png)
+
 ## 7. Setup & how to run
 
 ```bash
